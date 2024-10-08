@@ -16,7 +16,7 @@
 
 .elementor-19 .elementor-element.elementor-element-9730079:not(.elementor-motion-effects-element-type-background),
 .elementor-19 .elementor-element.elementor-element-9730079>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000073;
+    background-color: #ff0000;
 }
 
 .elementor-19 .elementor-element.elementor-element-9730079,
@@ -130,12 +130,16 @@
 }
 
 .elementor-19 .elementor-element.elementor-element-869db34 .elementor-social-icon i {
-    color: #000073;
+    color: #ff0000;
 }
 
+
 .elementor-19 .elementor-element.elementor-element-869db34 .elementor-social-icon svg {
-    fill: #000073;
+    fill: #ff0000;
 }
+
+
+
 
 .elementor-19 .elementor-element.elementor-element-a765886 {
     --display: flex;
@@ -401,7 +405,7 @@
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-menu-item:hover,
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-menu-item.wpr-active-menu-item {
-    background-color: #605BE5;
+    background-color: #d64113;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-sub-menu .wpr-sub-icon {
@@ -435,11 +439,11 @@
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover {
-    border-color: #605BE5;
+    border-color: #cc2611;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover .wpr-mobile-toggle-text {
-    color: #605BE5;
+    color: #ee471e;
 }
 
 .elementor-19 .elementor-element.elementor-element-6179afd .wpr-mobile-toggle:hover .wpr-mobile-toggle-line {
@@ -523,7 +527,7 @@
     font-family: "Montserrat", Sans-serif;
     font-size: 16px;
     font-weight: 600;
-    background-color: #000073;
+    background-color: #ff0000;
     border-radius: 7px 7px 7px 7px;
     box-shadow: 0px 4px 5.3px 0px rgba(0, 0, 0, 0.25098039215686274);
     padding: 014px 041px 014px 041px;
@@ -649,7 +653,7 @@
     width: 60px;
     height: 60px;
     font-size: 20px;
-    background-color: #000073;
+    background-color: #ff0000;
     color: var( --e-global-color-astglobalcolor5);
     border-radius: 0px;
     padding: 15px 15px 15px 15px;
