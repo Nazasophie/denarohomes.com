@@ -884,7 +884,7 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-label-wrapper .eae-content-switch-button {
-    background-color: #000073;
+    background-color: #FF0000;
     border-style: none;
     border-radius: 5px 5px 5px 5px;
     padding: 10px 10px 10px 10px;
@@ -892,11 +892,11 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-label-wrapper .eae-content-switch-button.active .eae-content-switch-label {
-    color: #000073;
+    color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-content-switcher-wrapper .eae-cs-switch-wrapper .eae-content-switch-label.active h5 {
-    color: #000073;
+    color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-label-wrapper .eae-content-switch-button.active .eae-content-switch-label i {
@@ -912,11 +912,11 @@
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-layout-skin1 .eae-cs-switch-container .eae-cs-label-wrapper .active.eae-content-switch-button:before {
-    background-color: #FFFFFF;
+    background-color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-label-wrapper .eae-content-switch-button.active {
-    border-color: #000073;
+    border-color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-switch-container .eae-content-switch-label.eae-cs-icon-align-right i {
@@ -936,12 +936,12 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-layout-skin1 .eae-cs-switch-wrapper {
-    background-color: #000073;
+    background-color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-content-switcher-wrapper .eae-cs-switch-container {
     padding: 0em 0em 0em 0em;
-    background-color: #000073;
+    background-color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-47c6cae .eae-content-switcher-wrapper .eae-cs-content-container .eae-cs-content-wrapper {
@@ -1120,8 +1120,8 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
     font-family: "Montserrat", Sans-serif;
     font-size: 16px;
     font-weight: 600;
-    fill: #000073;
-    color: #000073;
+    fill: #FF0000;
+    color: #FF0000;
     background-color: #FFFFFF;
     border-radius: 7px 7px 7px 7px;
     box-shadow: 0px 4px 5.3px 0px rgba(0, 0, 0, 0.25098039215686274);
@@ -1130,12 +1130,12 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
 
 .elementor-14 .elementor-element.elementor-element-8799822 .elementor-button:hover,
 .elementor-14 .elementor-element.elementor-element-8799822 .elementor-button:focus {
-    color: #000073;
+    color: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-8799822 .elementor-button:hover svg,
 .elementor-14 .elementor-element.elementor-element-8799822 .elementor-button:focus svg {
-    fill: #000073;
+    fill: #FF0000;
 }
 
 .elementor-14 .elementor-element.elementor-element-bb00c71 {
@@ -1153,12 +1153,12 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
     --padding-right: 08rem;
 }
 
-.elementor-14 .elementor-element.elementor-element-bb00c71:not(.elementor-motion-effects-element-type-background),
+elementor-14 .elementor-element.elementor-element-bb00c71:not(.elementor-motion-effects-element-type-background),
 .elementor-14 .elementor-element.elementor-element-bb00c71>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://denarohomes.com/wp-content/uploads/2024/07/Group-1321314821-1.png");
+    background-image: url("https://denarohomes.com/wp-content/uploads/2024/07/");
     background-repeat: no-repeat;
     background-size: cover;
-}
+} 
 
 .elementor-14 .elementor-element.elementor-element-bb00c71,
 .elementor-14 .elementor-element.elementor-element-bb00c71::before {
@@ -2076,7 +2076,7 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
     font-family: "Montserrat", Sans-serif;
     font-size: 16px;
     font-weight: 600;
-    background-color: #000073;
+    background-color: #FF0000;
     border-radius: 7px 7px 7px 7px;
     box-shadow: 0px 4px 5.3px 0px rgba(0, 0, 0, 0.25098039215686274);
     padding: 014px 041px 014px 041px;
@@ -2135,7 +2135,7 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
     min-height: 0px;
     min-width: 0px;
     color: #ffffff;
-    background-color: #3E3FF0;
+    background-color: #FF0000;
     padding: 10px 10px 10px 10px;
     border-radius: 3px;
 }
@@ -2176,7 +2176,7 @@ body.rtl .elementor-14 .elementor-element.elementor-element-47c6cae .eae-cs-swit
     min-height: 0px;
     min-width: 0px;
     color: #ffffff;
-    background-color: #3E3FF0;
+    background-color: #FF0000;
     padding: 10px 10px 10px 10px;
     border-radius: 3px;
 }

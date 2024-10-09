@@ -241,16 +241,16 @@
 }
 
 .elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings {
-    background-color: var(--e-p-border-global)
+    background-color:  #ff0000
 }
 
 .elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting {
-    background-color: var(--e-p-border-global);
+    background-color: #ff0000;
     color: var(--e-p-border-global-invert)
 }
 
 .elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting:hover {
-    background-color: var(--e-p-border-global-hover)
+    background-color: #ff0000
 }
 
 .elementor-editor-active .elementor.elementor-edit-mode .elementor-global-widget .elementor-editor-widget-settings .elementor-editor-element-setting.elementor-editor-element-save {
@@ -995,7 +995,7 @@ body.rtl.woocommerce div.product .elementor-widget-woocommerce-product-images di
 }
 
 :is(.elementor-widget-wc-add-to-cart, .woocommerce div.product .elementor-widget-wc-add-to-cart).elementor-button-info button.button.alt.elementor-button {
-    background-color: #5bc0de
+    background-color: #ff0000
 }
 
 :is(.elementor-widget-wc-add-to-cart, .woocommerce div.product .elementor-widget-wc-add-to-cart).elementor-button-success button.button.alt.elementor-button {
@@ -1007,7 +1007,7 @@ body.rtl.woocommerce div.product .elementor-widget-woocommerce-product-images di
 }
 
 :is(.elementor-widget-wc-add-to-cart, .woocommerce div.product .elementor-widget-wc-add-to-cart).elementor-button-danger button.button.alt.elementor-button {
-    background-color: #d9534f
+    background-color: #ff0000
 }
 
 .woocommerce div.product.elementor ul.tabs:before {
@@ -1291,7 +1291,7 @@ body.rtl.woocommerce div.product .elementor-widget-woocommerce-product-images di
 }
 
 .elementor-menu-cart__toggle .elementor-button {
-    background-color: var(--toggle-button-background-color, transparent);
+    background-color: #ff0000;
     color: var(--toggle-button-text-color, #69727d);
     border: var(--toggle-button-border-width, 1px) var(--toggle-button-border-type, solid) var(--toggle-button-border-color, #69727d);
     border-radius: var(--toggle-button-border-radius, 0);
@@ -1303,7 +1303,7 @@ body.rtl.woocommerce div.product .elementor-widget-woocommerce-product-images di
 
 .elementor-menu-cart__toggle .elementor-button:hover {
     color: var(--toggle-button-hover-text-color, #69727d);
-    background-color: var(--toggle-button-hover-background-color, transparent);
+    background-color: #ff0000;
     border-color: var(--toggle-button-hover-border-color, #69727d)
 }
 
@@ -1348,7 +1348,7 @@ body.rtl.woocommerce div.product .elementor-widget-woocommerce-product-images di
     inset-inline-end: -.7em;
     border-radius: 100%;
     color: var(--items-indicator-text-color, #fff);
-    background-color: var(--items-indicator-background-color, #d9534f);
+    background-color: #ff0000;
     text-align: center;
     font-size: 10px
 }
@@ -1689,24 +1689,24 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart:not(.elementor-me
     display: var(--view-cart-button-display, inline-block);
     color: var(--view-cart-button-text-color, #fff);
     padding: var(--view-cart-button-padding, 15px);
-    background-color: var(--view-cart-button-background-color, #69727d)
+    background-color: #ff0000
 }
 
 .elementor-menu-cart__footer-buttons .elementor-button--view-cart:hover {
     color: var(--view-cart-button-hover-text-color, #fff);
-    background-color: var(--view-cart-button-hover-background-color, #69727d)
-}
+    background-color: #ff0000
+}#ff0000
 
 .elementor-menu-cart__footer-buttons .elementor-button--checkout {
     display: var(--checkout-button-display, inline-block);
     color: var(--checkout-button-text-color, #fff);
     padding: var(--checkout-button-padding, 15px);
-    background-color: var(--checkout-button-background-color, #69727d)
+    background-color: #ff0000
 }
 
 .elementor-menu-cart__footer-buttons .elementor-button--checkout:hover {
     color: var(--checkout-button-hover-text-color, #fff);
-    background-color: var(--checkout-button-hover-background-color, #69727d)
+    background-color: #ff0000
 }
 
 @media (max-width:767px) {
@@ -1815,7 +1815,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 
 .elementor-widget-woocommerce-purchase-summary table tbody tr:hover>td,
 .elementor-widget-woocommerce-purchase-summary table tbody tr:hover>th {
-    background-color: initial
+    background-color: #ff0000
 }
 
 .elementor-widget-woocommerce-purchase-summary .woocommerce .woocommerce-thankyou-order-details {
@@ -1940,7 +1940,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-purchase-summary .woocommerce .shop_table .button.alt {
-    background-color: transparent;
+    background-color:#ff0000;
     border-radius: var(--button-border-radius, 3px);
     border: 2px var(--buttons-border-type, solid) var(--buttons-border-color, #5bc0de);
     vertical-align: middle;
@@ -2406,7 +2406,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce button.woocommerce-button {
-    background-color: var(--e-a-bg-default);
+    background-color:#ff0000;
     color: var(--forms-buttons-normal-text-color, #6f6f6f);
     border-radius: var(--forms-buttons-border-radius, 3px);
     padding: 1rem;
@@ -2432,7 +2432,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 
 .elementor-widget-woocommerce-checkout-page .woocommerce-info {
     border-top-color: transparent;
-    background-color: transparent;
+    background-color:#ff0000;
     padding: 0
 }
 
@@ -2501,7 +2501,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce .shop_table thead {
-    background-color: transparent
+    background-color: #ff0000
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce .shop_table thead tr th {
@@ -2538,7 +2538,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 
 .elementor-widget-woocommerce-checkout-page .woocommerce .shop_table tr:nth-child(odd)>td,
 .elementor-widget-woocommerce-checkout-page .woocommerce .shop_table tr:nth-child(odd)>th {
-    background-color: transparent
+    background-color: #ff0000
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce .woocommerce-checkout-review-order-table .cart_item td {
@@ -2709,7 +2709,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce-checkout #payment #place_order {
-    background-color: #5bc0de;
+    background-color: #ff0000;
     width: var(--purchase-button-width, auto);
     float: none;
     color: var(--purchase-button-normal-text-color, #fff);
@@ -2719,9 +2719,9 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-checkout-page .woocommerce-checkout #payment #place_order:hover {
-    background-color: #5bc0de;
+    background-color: #ff0000;
     color: var(--purchase-button-hover-text-color, #fff);
-    border-color: var(--purchase-button-hover-border-color, #5bc0de);
+    border-color: #ff0000;
     transition-duration: var(--purchase-button-hover-transition-duration, .3s)
 }
 
@@ -2876,7 +2876,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-cart .woocommerce button.button {
-    background-color: var(--e-a-bg-default);
+    background-color:#ff0000);
     color: var(--forms-buttons-normal-text-color, #69727d);
     border-radius: var(--forms-buttons-border-radius, 3px);
     padding: var(--forms-buttons-padding, .88rem 2rem);
@@ -3031,7 +3031,7 @@ body.elementor-default .elementor-widget-woocommerce-menu-cart.elementor-menu-ca
 }
 
 .elementor-widget-woocommerce-cart .woocommerce .input-text.qty {
-    background-color: transparent;
+    background-color: #ff0000;
     color: var(--order-summary-color, #000);
     border: var(--order-summary-quantity-border-weight, 1px) solid var(--order-summary-quantity-border-color, #d5d8dc);
     border-radius: 3px;
