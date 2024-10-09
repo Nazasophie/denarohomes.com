@@ -5,7 +5,7 @@
     .xpro-filter-dropdown-tablet .xpro-select-option {
         width: 100%;
         position: relative;
-        background-color: var(--e-global-color-primary);
+        background-color: #ff0000;;
         color: #fff;
         margin: 0;
         padding: 10px 15px;
@@ -65,7 +65,7 @@
         font: inherit;
         border: none !important;
         border-bottom: 1px solid #fff !important;
-        background-color: var(--e-global-color-primary) !important;
+        background-color: #ff0000 !important;
         color: #fff !important;
         padding: 10px 15px;
         margin: 0 !important;
@@ -968,7 +968,7 @@
     .xpro-filter-dropdown-mobile .xpro-select-option {
         width: 100%;
         position: relative;
-        background-color: var(--e-global-color-primary);
+        background-color: #ff0000;;
         color: #fff;
         margin: 0;
         padding: 10px 15px;
@@ -1028,7 +1028,7 @@
         font: inherit;
         border: none !important;
         border-bottom: 1px solid #fff !important;
-        background-color: var(--e-global-color-primary) !important;
+        background-color: #ff0000 !important;
         color: #fff !important;
         padding: 10px 15px;
         margin: 0 !important;

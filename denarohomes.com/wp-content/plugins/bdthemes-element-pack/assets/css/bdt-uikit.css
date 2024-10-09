@@ -816,13 +816,13 @@ select.bdt-form-width-xsmall {
 .bdt-radio:checked,
 .bdt-checkbox:checked,
 .bdt-checkbox:indeterminate {
-    background-color: #1e87f0
+    background-color:  #ff0000;
 }
 
 .bdt-radio:checked:focus,
 .bdt-checkbox:checked:focus,
 .bdt-checkbox:indeterminate:focus {
-    background-color: #0e6dcd
+    background-color:  #ff0000;
 }
 
 .bdt-radio:checked {
@@ -996,18 +996,18 @@ select.bdt-form-width-xsmall {
 }
 
 .bdt-button-primary {
-    background-color: #1e87f0;
+    background-color:  #ff0000;
     color: #fff
 }
 
 .bdt-button-primary:hover {
-    background-color: #0f7ae5;
-    color: #fff
+    background-color:  #ff0000;;
+    color: #fff;
 }
 
 .bdt-button-primary:active,
 .bdt-button-primary.bdt-active {
-    background-color: #0e6dcd;
+    background-color:  #ff0000;
     color: #fff
 }
 
@@ -1120,12 +1120,12 @@ select.bdt-form-width-xsmall {
 }
 
 .bdt-progress::-webkit-progress-value {
-    background-color: #1e87f0;
+    background-color:  #ff0000;
     transition: width .6s ease
 }
 
 .bdt-progress::-moz-progress-bar {
-    background-color: #1e87f0;
+    background-color:  #ff0000;
     transition: width .6s ease
 }
 
@@ -1411,7 +1411,7 @@ select.bdt-form-width-xsmall {
 
 .bdt-tile-primary {
     --bdt-inverse: light;
-    background-color: #1e87f0
+    background-color:  #ff0000;
 }
 
 .bdt-tile-secondary {
@@ -1502,7 +1502,7 @@ select.bdt-form-width-xsmall {
 
 .bdt-card-primary {
     --bdt-inverse: light;
-    background-color: #1e87f0;
+    background-color:  #ff0000;
     color: #fff
 }
 
@@ -1511,7 +1511,7 @@ select.bdt-form-width-xsmall {
 }
 
 .bdt-card-primary.bdt-card-hover:hover {
-    background-color: #0f7ae5
+    background-color: #ff0000
 }
 
 .bdt-card-secondary {
@@ -1704,7 +1704,7 @@ select.bdt-form-width-xsmall {
 .bdt-label {
     display: inline-block;
     padding: 0 10px;
-    background: #1e87f0;
+    background:#ff0000;
     line-height: 1.5;
     font-size: .875rem;
     color: #fff;
@@ -3618,7 +3618,7 @@ ul.bdt-nav-sub {
 }
 
 .bdt-subnav-pill>.bdt-active>a {
-    background-color: #1e87f0;
+    background-color: #ff0000;
     color: #fff
 }
 
@@ -5083,7 +5083,7 @@ ul.bdt-nav-sub {
     -webkit-background-clip: text;
     color: transparent !important;
     display: inline-block;
-    background-color: #1e87f0
+    background-color: #ff0000
 }
 
 .bdt-text-left {
@@ -5360,7 +5360,7 @@ video) {
 }
 
 .bdt-background-primary {
-    background-color: #1e87f0
+    background-color: #ff0000
 }
 
 .bdt-background-secondary {

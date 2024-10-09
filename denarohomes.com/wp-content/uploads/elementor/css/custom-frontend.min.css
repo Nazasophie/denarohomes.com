@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .dialog-widget-content {
-    background-color: var(--e-a-bg-default);
+    background-color: #ff0000;
     position: absolute;
     border-radius: 3px;
     box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, .2);
@@ -46,7 +46,7 @@
 }
 
 .elementor-editor-active .elementor-popup-modal {
-    background-color: initial
+    background-color: #ff0000;
 }
 
 .dialog-type-alert .dialog-widget-content,
@@ -95,7 +95,7 @@
     outline: none;
     border: none;
     border-radius: var(--e-a-border-radius);
-    background-color: var(--e-a-btn-bg);
+    background-color: #ff0000;;
     color: var(--e-a-btn-color-invert);
     transition: var(--e-a-transition-hover)
 }
@@ -109,13 +109,13 @@
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:hover,
 .dialog-type-confirm .dialog-buttons-wrapper .dialog-button:focus,
 .dialog-type-confirm .dialog-buttons-wrapper .dialog-button:hover {
-    background-color: var(--e-a-btn-bg-hover);
+    background-color: v#ff0000;;
     color: var(--e-a-btn-color-invert)
 }
 
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:active,
 .dialog-type-confirm .dialog-buttons-wrapper .dialog-button:active {
-    background-color: var(--e-a-btn-bg-active)
+    background-color: #ff0000;
 }
 
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:not([disabled]),
@@ -125,7 +125,7 @@
 
 .dialog-type-alert .dialog-buttons-wrapper .dialog-button:disabled,
 .dialog-type-confirm .dialog-buttons-wrapper .dialog-button:disabled {
-    background-color: var(--e-a-btn-bg-disabled);
+    background-color: #ff0000; 
     color: var(--e-a-btn-color-disabled)
 }
 
